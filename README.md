@@ -134,3 +134,82 @@ The lab includes several specialized agent architectures:
 
 ## License
 MIT License © 2025 [HareLabs](https://github.com/harehimself)
+
+
+<p align="center">
+   <img src="https://raw.githubusercontent.com/harehimself/agentic-lab/master/agentic-lab.png">
+</p>
+
+<p align="center">
+   This repo is a research and development environment for building autonomous AI agents. It includes practical implementations of agentic frameworks such as LangGraph and CrewAI, along with modular architectures for reasoning, planning, and decision-making. The lab explores cognitive patterns like memory integration, tool use, and multi-agent coordination. Designed for hands-on experimentation, it enables fast iteration and deployment of intelligent agents. Built-in examples cover use cases from task automation to dynamic knowledge retrieval. Agentic Lab is ideal for developers and researchers looking to advance the frontier of autonomous AI systems.
+</p>
+<br>
+
+<p align="center">
+  <a href="https://github.com/harehimself/agentic-lab/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/harehimself/agentic-lab" alt="Contributors"></a>
+  <a href="https://github.com/harehimself/agentic-lab/network/members">
+    <img src="https://img.shields.io/github/forks/harehimself/agentic-lab" alt="Forks"></a>
+  <a href="https://github.com/harehimself/agentic-lab/stargazers">
+    <img src="https://img.shields.io/github/stars/harehimself/agentic-lab" alt="Stars"></a>
+  <a href="https://github.com/harehimself/agentic-lab/issues">
+    <img src="https://img.shields.io/github/issues/harehimself/agentic-lab" alt="Issues"></a>
+  <a href="https://github.com/harehimself/agentic-lab/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/harehimself/agentic-lab" alt="MIT License"></a>
+</p>
+
+<br><br>
+
+## Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Overview](#overview)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Agent Architectures](#agent-architectures)
+- [Use Cases](#use-cases)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Overview  
+Agentic Lab serves as a launchpad for developing, testing, and refining autonomous AI agents. Whether you're building research prototypes or production-ready systems, this environment provides the tools and abstractions necessary to experiment with cognition, decision flows, and agent interoperability.  
+
+## Features  
+- 🧠 Modular agent frameworks (LangGraph, CrewAI, AutoGen)  
+- 🗂️ Tool chaining and execution environments  
+- 🧭 ReAct and CoT-based reasoning templates  
+- 💾 Memory integration with vector DBs  
+- ⚡ Fast prototyping with reusable agent components  
+- 🔄 Support for multi-agent orchestration  
+
+## Getting Started  
+Clone the repo and install dependencies:  
+```bash
+git clone https://github.com/harehimself/agentic-lab.git  
+cd agentic-lab  
+pip install -r requirements.txt  
+```
+
+Run your first agent:  
+```bash
+python examples/run_agent.py  
+```
+
+## Agent Architectures  
+Each agent is designed using a combination of modular strategies:  
+- **Reasoning:** Chain-of-Thought, ReAct  
+- **Planning:** Declarative tasks, LangGraph flows  
+- **Memory:** Vector DB (Pinecone, ChromaDB)  
+- **Tool Use:** Custom functions, external APIs  
+- **Control:** Autonomous or human-in-the-loop  
+
+## Use Cases  
+- Real-time task automation  
+- Retrieval-augmented knowledge agents  
+- Workflow orchestrators  
+- Decision support copilots  
+
+## Contributing  
+Contributions are welcome! Please open an issue or submit a pull request.  
+
+## License  
+MIT © [HareLabs](https://github.com/harehimself)
