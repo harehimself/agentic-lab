@@ -1,6 +1,8 @@
+
 <p align="center">
    <img src="https://raw.githubusercontent.com/harehimself/agentic-lab/main/agentic-lab.png">
 </p>
+
 <p align="center">
    Research and development laboratory for building autonomous AI agents with advanced reasoning capabilities. Explores multi-agent systems, tool use, planning algorithms, and emergent behaviors. Designed for AI researchers and developers creating sophisticated agent architectures. Includes frameworks for agent communication, task delegation, and collaborative problem-solving. Perfect for experimenting with next-generation AI systems and autonomous workflows.
 </p>
