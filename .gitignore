@@ -1,2 +1,3 @@
 webcrawler-agent/genesys_docs/chroma.sqlite3
 *.sqlite3
+.env
