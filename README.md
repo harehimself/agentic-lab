@@ -21,31 +21,31 @@
 ---
 
 ## Table of Contents
-- [🤖 Agentic Lab](#-agentic-lab)
-  - [Features](#features)
-  - [Installation](#installation)
-  - [Quick Start](#quick-start)
-  - [Agent Types](#agent-types)
-  - [Project Structure](#project-structure)
-  - [Benefits](#benefits)
-  - [How It Compares](#how-it-compares)
-  - [License](#license)
+   - [Agentic Lab](#agentic-lab)
+   - [Features](#features)
+   - [Installation](#installation)
+   - [Quick Start](#quick-start)
+   - [Agent Types](#agent-types)
+   - [Project Structure](#project-structure)
+   - [Benefits](#benefits)
+   - [How It Compares](#how-it-compares)
+   - [License](#license)
 
 <br>
 
-# 🤖 Agentic Lab
+## Agentic Lab
 An advanced research laboratory for developing autonomous AI agents with sophisticated reasoning, planning, and collaboration capabilities for next-generation AI systems.
 
 <br>
 
 ## Features
-- ✅ Multi-agent system architectures
-- 🧠 Advanced reasoning and planning algorithms
-- 🔧 Dynamic tool use and adaptation
-- 🤝 Agent-to-agent communication protocols
-- 📋 Task delegation and workflow management
-- 🌟 Emergent behavior exploration
-- 🔄 Self-improving agent systems
+- Multi-agent system architectures
+- Advanced reasoning and planning algorithms
+- Dynamic tool use and adaptation
+- Agent-to-agent communication protocols
+- Task delegation and workflow management
+- Emergent behavior exploration
+- Self-improving agent systems
 
 <br>
 
